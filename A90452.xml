@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Master Henry Piercies letter to the Earle of Northumberland, and presented to the Parliament, June, 16. 1641. 1. Concerning the bishops functions and votes. 2. The not-disbanding of the Irish army untill the Scots were disbanded too. 3. The endeavouring to settle his Majesties revenue to that proportion was formerly. With a true discovery of the late intended plot.</title>
+            <author>Percy, Henry, Baron Percy of Alnwick, d. 1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90452</idno>
+            <idno type="STC">Wing P1455</idno>
+            <idno type="STC">Thomason E160_18</idno>
+            <idno type="STC">ESTC R1278</idno>
+            <idno type="EEBO-CITATION">99859339</idno>
+            <idno type="PROQUEST">99859339</idno>
+            <idno type="VID">156920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156920)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Master Henry Piercies letter to the Earle of Northumberland, and presented to the Parliament, June, 16. 1641. 1. Concerning the bishops functions and votes. 2. The not-disbanding of the Irish army untill the Scots were disbanded too. 3. The endeavouring to settle his Majesties revenue to that proportion was formerly. With a true discovery of the late intended plot.</title>
+                  <author>Percy, Henry, Baron Percy of Alnwick, d. 1659.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from BLC. and Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156920:1" rendition="simple:additions"/>
+            <p>MASTER HENRY PIERCIES LETTER TO THE EARLE OF NORTHVMBERLAND, and preſented to the Parliament, <hi>June,</hi> 16. 1641.</p>
+            <list>
+               <item>1. <hi>Concerning the Biſhops functions and votes.</hi>
+               </item>
+               <item>2. <hi>The not diſbanding of the Iriſh Army untill the</hi> Scots <hi>were diſbanded too.</hi>
+               </item>
+               <item>3. <hi>The endeavouring to ſettle his Majeſties Revenue to that proportion was formerly.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>With a true Diſcovery of the late intended Plot.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156920:2"/>
+            <pb n="1" facs="tcp:156920:2"/>
+            <head>Mr. <hi>Henry Percies</hi> Letter to the Earle of <hi>Northumberland,</hi> and preſented to the Houſe of <hi>Parliament,</hi> JUNE 16. 1641.</head>
+            <p>WHat with my owne innocencie, and the violence I heare, is againſt me, J find my ſelfe much diſtracted, I will not aske your Counſell, becauſe it may bring prejudice upon you, but I will with all faithfulneſſe and truth tell you what my part hath bin, that at leaſt it may be cleared by you, whatſoever becomes of mee.</p>
+            <p>When there was 50000 l. deſigned by the Parlia<g ref="char:EOLhyphen"/>ment for the <hi>Engliſh</hi> Army, there was, as J take it, a ſuddaine demand by the <hi>Scots</hi> at the ſame time of 25000 l. of which there was 15000 l. ready, this they preſſed with much neceſſity, as the <hi>Parliament,</hi> after an order made, did think it fit for them to deduct 10000 pound our of the 50000 l. formerly granted, upon which the ſouldiers in our houſe were much ſcandali<g ref="char:EOLhyphen"/>zed, amongſt which J was one, and ſitting by <hi>Wilmot</hi> and <hi>Aſhburnham, Wilmot</hi> ſtood up and told them, if that of the <hi>Scots</hi> would procure money, he doubted not but the Officers of the <hi>Engliſh</hi> Army might eaſily doe the like: but the firſt order was reverſed notwithſtan<g ref="char:EOLhyphen"/>ding,
+<pb n="2" facs="tcp:156920:3"/>and 10000 l. given to the <hi>Scots,</hi> this was the cauſe of many diſcourſes of diſlike amongſt us, and came to this purpoſe, that they were diſobliged by the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> and not by the King, this being ſaid often to one another, we did reſolve that <hi>Willmot, Aſhburneham, Pollard, Oneale</hi> and my ſelfe, to make ſome expreſſi<g ref="char:EOLhyphen"/>ons of ſerving the King in all things he would com<g ref="char:EOLhyphen"/>mand us, that were honorable for him and us, being likewiſe agreeing to the fundamentall Lawes of the Kingdome, that ſo ſarre we would live and dye with him, this was agreed upon with us, not having any Communication with others, that I am coupled now withall, and further by their joynt conſent I was to tell his Majeſtie thus much from them, but withall I was to order the matter ſo as the King might apprehend this as a great ſervice done unto him, at this time when his affaires were in ſo ill a condition, and they were moſt confident, <hi>that they would engage the whole Army thus farre, but further they would undertake nothing, be<g ref="char:EOLhyphen"/>cauſe they would neither infringe the liberties of the Subjects, or deſtroy the Lawes,</hi> to which J and every one conſented, and having their ſenſe, I drew the heads up in a paper, to the which they all approved, when I read it, and then wee did by an oath promiſe one ano<g ref="char:EOLhyphen"/>ther to be conſtant and ſecret in all this, and did all of us take that oath together, then I ſaid; Well Sirs, I muſt now be informed what your particular deſires are, that ſo I may be the better able to ſerve you, which they were pleaſed to doe, and ſo I did very faithfully ſerve them therein, as farre as J could: this is the truth, and all the truth upon my ſoule. In particular diſcour<g ref="char:EOLhyphen"/>ſes, after that, <hi>wee did fall upon the Petitioning to the
+<pb n="3" facs="tcp:156920:3"/>King and Parliament for monies, there being ſo great arreares due to us, and ſo much delayes made in the por<g ref="char:EOLhyphen"/>curing of them, but that was never done.</hi>
+            </p>
+            <p n="1">1. <hi>Concerning the Biſhops functions and votes.</hi>
+            </p>
+            <p n="2">2. <hi>The not diſbanding of the Iriſh Army untill the Scots were diſbanded too.</hi>
+            </p>
+            <p n="3">3. <hi>The endeavouring to ſettle his Majeſties Reve<g ref="char:EOLhyphen"/>nue to that proportion was formerly.</hi>
+            </p>
+            <p>And it was reſolved by us all if the King ſhould re<g ref="char:EOLhyphen"/>quire our aſſiſtance in thoſe things, that as farre as we could we might contribute thereunto, without brea<g ref="char:EOLhyphen"/>king the Lawes of the Kingdome. And in caſe the King ſhould be denyed thoſe things being put to them we would not fly from him, all theſe perſons did act and concurre in this as well as I, this being all impar<g ref="char:EOLhyphen"/>ted to the King by me from them, J perceived he had beene treated with by others concerning ſome things of our Army, which not agreed with what was pur<g ref="char:EOLhyphen"/>poſed by me, but inclined a way more ſharpe, and high, not having limits either of honour or Law, I told the King he might be pleaſed to conſider with himſelfe, which way it was fit for him to hearken unto, for us we were reſolved not to depart from our grounds, wee ſhould not be diſpleaſed whoſoever they were, but the particular of the deſignes, or the perſons we deſired not to know, though it was no hard matter to gueſſe at the<g ref="char:cmbAbbrStroke">̄</g>.
+<pb n="4" facs="tcp:156920:4"/>in the end I beleeve the danger of the one, the juſtice of the other made the King tell me he would leave all thoughts of other propoſitions but ours as things not practiceable, but deſired, notwithſtanding that <hi>Goring</hi> and <hi>Jermin</hi> who were acquainted with the other pro<g ref="char:EOLhyphen"/>ceedings ſhould be admitted amongſt us, <hi>I</hi> told him <hi>J</hi> thought the other Gentry would never conſent to it, but <hi>I</hi> would propoſe it, which <hi>I</hi> did, and wee were all much againſt it; but the King did preſſe it ſo much, as at the laſt it was conſented unto, and <hi>Goring</hi> and <hi>Ier<g ref="char:EOLhyphen"/>min</hi> came to my Chamber, there I was appointed to tell them after they had ſworne to ſecrecie, what wee had propoſed, which <hi>I</hi> did, but before <hi>I</hi> goe into the debate of the way, <hi>I</hi> muſt tell you <hi>Jermin and Goring</hi> were very earneſt <hi>Suckling</hi> ſhould be admitted, which we did all decline, and was deſired by all our men to be reſolute in it, which <hi>I</hi> was, and gave many Reaſons: whereupon Mr. <hi>Goring</hi> made anſwer, he was engaged with <hi>Suckling</hi> his being imployed in the Army, but for his meeting with us, they were contented to paſſe it by. Then wee tooke up againe the wayes which were propoſed, which tooke great debate, and theirs differ<g ref="char:EOLhyphen"/>red from ours in violence and height, which wee all proteſted againſt and parted, diſagreeing totally, yet remitted it to be ſpoken of by mee and <hi>Iermin</hi> to the King, which we both did, and the King conſtant to his former Reſolutions told him, theſe wayes were all vaine and fooliſh, and would thinke of them no more, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>omit one thing of Mr. <hi>Goring,</hi> hee deſired to know how the chiefe Commanders were to be diſpoſed off, for if he had not a condition worthy of him, he would not goe along with us, we made anſwer that no body
+<pb n="5" facs="tcp:156920:4"/>thought of that, we intended if we were ſent downe to goe all in the ſame capacity we were in, he did not like that by no meanes, and by that did worke ſo with Mr. <hi>Chidley,</hi> that there was a Letter ſent by ſome of the Commanders to make him Lieutenant Generall, and when he had ordered this matter at <hi>London,</hi> and Mr. <hi>Chidley</hi> had his inſtructions, then did he goe to <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> pretending to be abſent when this was a wor<g ref="char:EOLhyphen"/>king, wee all deſired my Lords of <hi>Eſſex</hi> and <hi>Holland,</hi> that if there were a Generall at <hi>Newcaſtle,</hi> they were pleaſed to give out a report that I ſhould be Generall of the horſe, but J proteſt neither to the King nor any elſe, did I ever ſo much as thinke of it, my Lord of <hi>Holland</hi> was made Generall, and ſo all things were laid aſide, and this is the truth and all the truth, I knew of theſe proceedings, and this J will and doe proteſt unto you upon my Faith, and <hi>Willmot, Aſhburnham,</hi> and <hi>Oneale</hi> have at ſeverall times confeſſed and ſworne, J never ſaid any thing in the buſineſſe, they did not eve<g ref="char:EOLhyphen"/>ry one agree unto and would juſtifie: This Relation J ſent you rather to informe you of the truth of the matter, that you may the better know how to doe mee good, but I ſhould thinke my ſelfe very unhappy to be made a betrayer of any body, what concerned the Tower or any thing elſe, I never medled withall, nor never ſpake with <hi>Goring,</hi> but that night before them all, and I ſaid nothing but what was conſented unto by any party, J never ſpake one word with <hi>Suckling, Car<g ref="char:EOLhyphen"/>narvan, Davenant,</hi> or any other Creature, me thinks if my friends and kindred knew the truth and juſtice of the matter, it were no hard matter to ſerve me in ſome meaſure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
